@@ -1,0 +1,27 @@
+body {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.pris {
+  text-align: right;
+  font-weight: bold;
+}
+
+.maskin {
+  border: 10px;
+  border-color: black;
+  background-color: gray;
+}
+
+.party {
+  margin-top: 5em;
+}
+
+.party .private {
+  background-color: lavender;
+}
+
+.party .business {
+  background-color: beige;
+}
